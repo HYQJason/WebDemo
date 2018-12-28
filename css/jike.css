@@ -1,0 +1,143 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.condiv{
+	
+	margin-top: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+	height: 100%;
+	
+}
+.titleclass{
+	border: 1px;
+	position: relative;
+	border-bottom-style:  groove;
+	border-top-style: groove;
+	margin: 0 auto;
+	height: 60px;
+z-index: 1;
+
+}
+
+.titleul{
+	position: absolute;
+	top: 30%;
+	width: 28%;
+	
+	display: inline-block;
+}
+li{
+	padding-left: 20px;
+	list-style: none;
+	float: left;
+}
+
+#divtougao{
+	top: 2px;
+	position: absolute;
+	left: 80%;
+	border-radius: 4px;
+	width: 60px;
+	height: 62px;
+	background-color: hotpink;
+	z-index: 4;
+}
+.logo{
+	background-color: #000000;
+	display: block;
+	float: left;
+	width: 100px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 300px;
+	
+}
+
+#downapp{
+	width: 20px;
+	height: 14px;
+}
+
+#ptougao{
+	color: #FFFFFF;
+	text-align: center;
+
+}
+#userdiv{
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 60%;
+	width: 340px;
+	height: 40px;
+	
+	
+	
+	
+	
+}
+#userdiv input {
+	margin-left: 40px;
+
+}
+#phistory {
+	margin-left: 20px;
+}
+#phistory{
+	
+
+	
+}
+#accountimg{
+	margin-left: 20px;
+	width: 20px;
+	height: 20px;
+}
+#videodivid{
+	background-color: black;
+	width: 80%;
+float: left;
+	height: 800px;
+}
+#uldivid{
+	text-align: center;
+	float: right;
+	width: 20%;
+	height: 2000px;
+
+}
+#barrageulid  {
+	text-align: center;
+	margin-bottom: 40px;
+	list-style: none;
+	list-style-position: outside;
+min-height: 800px;	
+
+
+	
+}
+
+#barrageulid li{
+padding: 10px;
+ display: inline-block;
+    list-style: none;
+margin: 0 auto;
+	
+}
+
+.anthologyclass {
+	
+
+
+	
+}
+
+.anthologyclass li{
+padding: 20px;
+	width: 100px;
+text-align: left;
+	
+}
